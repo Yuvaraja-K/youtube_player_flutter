@@ -1,7 +1,3 @@
-flutter_inappwebview
-2.15
-file:///home/yuvaraja/.pub-cache/git/flutter_inappwebview-c7b1eb785c9b19ca6154c288e44e2d7b70c998fe/
-file:///home/yuvaraja/.pub-cache/git/flutter_inappwebview-c7b1eb785c9b19ca6154c288e44e2d7b70c998fe/lib/
 _fe_analyzer_shared
 2.17
 file:///home/yuvaraja/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-61.0.0/
@@ -54,10 +50,10 @@ file
 3.0
 file:///home/yuvaraja/.pub-cache/hosted/pub.dev/file-7.0.0/
 file:///home/yuvaraja/.pub-cache/hosted/pub.dev/file-7.0.0/lib/
-flutter_inappwebview_internal_annotations
+flutter_inappwebview
 2.14
-file:///home/yuvaraja/.pub-cache/hosted/pub.dev/flutter_inappwebview_internal_annotations-1.1.0/
-file:///home/yuvaraja/.pub-cache/hosted/pub.dev/flutter_inappwebview_internal_annotations-1.1.0/lib/
+file:///home/yuvaraja/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.8.0/
+file:///home/yuvaraja/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.8.0/lib/
 frontend_server_client
 2.12
 file:///home/yuvaraja/.pub-cache/hosted/pub.dev/frontend_server_client-3.2.0/
@@ -226,10 +222,6 @@ flutter_test
 3.0
 file:///home/yuvaraja/Development/flutter/packages/flutter_test/
 file:///home/yuvaraja/Development/flutter/packages/flutter_test/lib/
-flutter_web_plugins
-3.0
-file:///home/yuvaraja/Development/flutter/packages/flutter_web_plugins/
-file:///home/yuvaraja/Development/flutter/packages/flutter_web_plugins/lib/
 youtube_player_flutter
 3.0
 file:///home/yuvaraja/Projects/Centa/youtube_player_flutter/
